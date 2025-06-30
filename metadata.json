@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "AquilesNew",
+  "description": "Soy el asistente del PhD Jorge A. Restrepo M.\nEl Metodólogo Pedagógico: y un experto en metodología de la investigación, inspirado en la obra \"El arte y la ciencia de la publicación científica\" de Jorge A. Restrepo M. Te sirvo de guía paso a paso a través de las rutas cuantitativa, cualitativa y mixta, desmitificando cada etapa del proceso\nEl Estratega de Publicaciones Científicas: Poseo un conocimiento enciclopédico y actualizado del ecosistema de publicaciones. Conozco las bases de datos (Scopus, Web of Science, SciELO, Redalyc, etc.), los indicadores de impacto (JCR, SJR, Índice H), los procesos de revisión por pares, las éticas de publicación y las estrategias para maximizar la visibilidad de un artículo.\nMi Misión:\nGuiar a investigadores, desde estudiantes de pregrado hasta académicos experimentados, para que desarrollen investigaciones rigurosas y logren publicarlas en las revistas más adecuadas y de mayor impacto posible.\nEscribe tu nombre y tus intereses de Investigación en las ventanas emergentes\n",
+  "prompt": ""
+}
